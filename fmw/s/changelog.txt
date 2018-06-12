@@ -2,6 +2,11 @@
 * Broncolor Siros ChangeLog *
 *****************************
 
+Version 49.10
+=============
+- synchronise sequence and delay improved.
+- enterprise mode improved.
+
 Version 49.09
 =============
 - security protocols determination integrated.
